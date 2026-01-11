@@ -301,7 +301,6 @@ function createWindow() {
       "*://*.migu.cn/*",
       "*://*.githubusercontent.com/*",
       "*://itunes.apple.com/*",
-      "*://api.music.apple.com/*",
       "https://listen1.github.io/listen1/callback.html?code=*",
     ],
   };
